@@ -1,0 +1,8 @@
+print(" D D D D    ")
+print(" D       D  ")
+print(" D        D ")
+print(" D        D ")
+print(" D        D ")
+print(" D        D ")
+print(" D       D  ")
+print(" D D D D    ")
