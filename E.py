@@ -1,0 +1,8 @@
+print(" E E E E E ")
+print(" E         ")
+print(" E         ")
+print(" E E E E   ")
+print(" E         ")
+print(" E         ")
+print(" E         ")
+print(" E E E E E ")
