@@ -1,0 +1,8 @@
+print(" J J J J J ")
+print("         J ")
+print("         J ")
+print("         J ")
+print("         J ")
+print(" J       J ")
+print(" J       J ")
+print("  J J J J ")
