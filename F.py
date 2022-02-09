@@ -1,0 +1,8 @@
+print(" F F F F F ")
+print(" F         ")
+print(" F         ")
+print(" F F F F   ")
+print(" F         ")
+print(" F         ")
+print(" F         ")
+print(" F         ")
