@@ -1,0 +1,8 @@
+print(" H       H ")
+print(" H       H ")
+print(" H       H ")
+print(" H H H H H ")
+print(" H       H ")
+print(" H       H ")
+print(" H       H ")
+print(" H       H ")
