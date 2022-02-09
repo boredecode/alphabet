@@ -1,0 +1,8 @@
+print(" I I I I I ")
+print("     I     ")
+print("     I     ")
+print("     I     ")
+print("     I     ")
+print("     I     ")
+print("     I     ")
+print(" I I I I I ")
